@@ -1,1 +1,9 @@
-# Chatbots-At-The-Crossroads-Ethical-Decision-Making-In-AI-And-Driverless-Vehicles
+# Chatbots At The-Crossroads: Ethical Decision Making In AI And Driverless Vehicles
+
+## Abstract
+
+Autonomous vehicles represent a transformative innovation poised to reshape transportation and mobility. As this emerging technology matures, researchers must critically evaluate the aptitude of artificial intelligence (AI) systems tasked with operating driverless cars. Accordingly, this paper conducts an in-depth analysis of the intersection of autonomous vehicles and AI chatbots.
+
+Leveraging the classic trolley problem thought experiment, the first study presented herein probes the ethical reasoning capabilities of leading chatbots when faced with complex moral dilemmas involving human lives. Their responses reveal differing priorities, inconsistencies, and varying approaches to different scenarios. The second study then utilizes real dashcam footage to simulate dynamic driving situations. When exposing chatbots to these vivid scenes, their visual comprehension, hazard recognition skills, and overall readiness for real-time decision-making are analyzed across key categories.
+
+Together, these dual investigations highlight the current capabilities and limitations of AI chatbots for autonomous vehicle applications. While today’s largest language models display great promise and have made considerable progress compared to earlier models, gaps persist compared to human drivers, especially in ethical judgment, visual understanding, and dynamic decision-making. As AI advances, researchers must continue developing solutions to bridge these gaps for safer autonomous systems that align with human values. In support of such solutions, by identifying the performance of modern chatbots in vehicular contexts, this paper provides key insights that will inform and guide future progress at the intersection of language AI and driverless cars.
